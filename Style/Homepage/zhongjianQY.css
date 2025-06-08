@@ -1,0 +1,39 @@
+.jichuzhishiQY {
+    width: 1000px;
+    height: 390px;
+    border: 1px solid red;
+    margin: 0 auto;
+    background-image: url(/jiezhongheng/Image/Homepage/01.jpg);
+    background-repeat: no-repeat;
+    background-size: 470px 390px;
+    background-position: right;
+}
+.jichuzhishiQY a {
+    margin-top: 5px;
+}
+.jichuzhishi {
+    font-size: 23px;
+    position: relative;
+    top: -15px;
+    left: 11px;
+}
+.jichuzhishilianjie {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -40px;
+    left: 33px;
+}
+.jichuanli {
+    font-size: 23px;
+    position: relative;
+    top: -55px;
+    left: 11px;
+}
+.jichuanlilianjie {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -82px;
+    left: 33px;
+}
